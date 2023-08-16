@@ -6,5 +6,5 @@ ItemName_FR = {
 	ItemName_CTorch.CrankTorch5 = "Lampe de poche à manivelle",
 	ItemName_CTorch.CrankTorch6 = "Lampe de poche à manivelle",
 	ItemName_CTorch.CrankTorchARG = "Lampe de poche à manivelle Edition Argentine",
-	ItemName_CTorch.CrankTorchBox = "Lampe de poche à manivelle emballée",
+	ItemName_CTorch.CrankTorchBox = "Lampe de poche à manivelle (emballée)",
 }
